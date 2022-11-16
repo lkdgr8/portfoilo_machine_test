@@ -10,7 +10,7 @@ function Contact() {
         console.log("feedback: " + event.target[2].value)
         console.log("message: " + event.target[3].value)
         if (change) {
-            console.log("gender " + change)
+            console.log("gender: " + change)
         }
         if (clicked) {
             console.log("confirmation policy: " + clicked)
