@@ -13,7 +13,7 @@ function Contact() {
             console.log("gender: " + change)
         }
         if (clicked) {
-            console.log("confirmation policy: " + clicked)
+            console.log("confirma policy: " + clicked)
         }
 
     }
