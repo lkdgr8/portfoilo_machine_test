@@ -1,0 +1,94 @@
+[
+    {
+        "id": 1,
+        "title": "Todo List Project with edit and delete functionality",
+        "category": "Reactjs",
+        "image": "img/todo_list_project.png",
+        "link": "https://lkdgr8.github.io/my-todo-list-project/"
+    },
+    {
+        "id": 2,
+        "title": "Robo Frinds app with data imported from API",
+        "category": "Reactjs",
+        "image": "img/Robofrnds.png",
+        "link": "https://lkdgr8.github.io/RoboFreindsapp/"
+    },
+    {
+        "id": 3,
+        "title": "Ave portfolio website",
+        "category": "Reactjs",
+        "image": "img/ave_project.png"
+    },
+    {
+        "id": 4,
+        "title": "weather details city wise api project",
+        "category": "Reactjs",
+        "image": "img/weather_proj.png",
+        "link": "https://lkdgr8.github.io/weatherapiproj"
+    },
+    {
+        "id": 5,
+        "title": "XD design to HTML and CSS",
+        "category": "UI/UX Design",
+        "image": "img/xd_to_html.png",
+        "link": "https://lkdgr8.github.io/XD-design-to-HTML/"
+    },
+    {
+        "id": 6,
+        "title": "Assignment to make companie's website's sample UI",
+        "category": "UI/UX Design",
+        "image": "img/making_ui_for_company_website.png",
+        "link": "https://lkdgr8.github.io/assignment2"
+    },
+    {
+        "id": 7,
+        "title": "Gradient Background Generator project",
+        "category": "UI/UX Design",
+        "image": "img/gradient_background.png",
+        "link": "https://lkdgr8.github.io/gradient_backgroun_generator/"
+
+    },
+    {
+        "id": 8,
+        "title": "Erols Taloring website",
+        "category": "UI/UX Design",
+        "image": "img/erolstailoring.png",
+        "link": "https://erolstailoring.com/"
+    },
+    {
+        "id": 9,
+        "title": "KS Softech Website",    
+        "category": "UI/UX Design",
+        "image": "img/kssoftech.png",
+        "link": "https://www.kssoftech.com/"
+    },
+    {
+        "id": 10,
+        "title": "AI Shipping Lines website",
+        "category": "Wordpress",
+        "image": "img/ai.png",
+        "link": "https://www.aishippinglines.com/"
+        
+    },
+    {
+        "id": 11,
+        "title": "Flatbed Hauling Qoutes website",
+        "category": "Wordpress",
+        "image": "img/fbhq.png",
+        "link": "https://www.flatbedhaulingquotes.com/"
+    },
+    {
+        "id": 12,
+        "title": "AP Car Rentals website",
+        "category": "Wordpress",
+        "image": "img/ap.png",
+        "link": "https://apsupercarrental.com/"
+    },
+    {
+        "id": 13,
+        "title": "heavy hauling transport website",
+        "category": "Wordpress",
+        "image": "img/hht.png",
+        "link": "https://heavyhaultransporting.com/"
+    }
+]
